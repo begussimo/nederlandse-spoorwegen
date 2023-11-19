@@ -1,0 +1,34 @@
+source,origin,name,plannedDateTime,plannedTimeZoneOffset,actualDateTime,actualTimeZoneOffset,plannedTrack,actualTrack,trainCategory,cancelled,messages,arrivalStatus,product.number,product.categoryCode,product.shortCategoryName,product.longCategoryName,product.operatorCode,product.operatorName,product.type
+PPV,Amsterdam Centraal,NS Int  9264,2023-11-19T20:04:00+0100,60,2023-11-19T21:04:08+0100,60,2,2,ICD,False,[],INCOMING,9264,ICD,NS Int Intercity direct,Intercity direct,NS Int,NS Int,TRAIN
+PPV,Amsterdam Centraal,NS  1177,2023-11-19T20:36:00+0100,60,2023-11-19T21:10:06+0100,60,3,3,ICD,False,[],INCOMING,1177,ICD,NS Intercity direct,Intercity direct,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS  2266,2023-11-19T20:49:00+0100,60,2023-11-19T21:03:28+0100,60,7,7,IC,False,[],INCOMING,2266,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS Int  9394,2023-11-19T20:53:00+0100,60,2023-11-19T21:05:26+0100,60,2,2,EST,False,[],INCOMING,9394,EST,NS Int Eurostar,Eurostar,NS Int,NS Int,TRAIN
+PPV,Dordrecht,NS  5172,2023-11-19T20:57:00+0100,60,2023-11-19T21:00:48+0100,60,7,7,SPR,False,[],INCOMING,5172,SPR,NS Sprinter,Sprinter,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS Int  9268,2023-11-19T21:04:00+0100,60,2023-11-19T21:10:45+0100,60,2,2,ICD,False,[],INCOMING,9268,ICD,NS Int Intercity direct,Intercity direct,NS Int,NS Int,TRAIN
+PPV,Tiel,NS  6968,2023-11-19T21:04:00+0100,60,2023-11-19T21:04:00+0100,60,16,16,SPR,False,[],INCOMING,6968,SPR,NS Sprinter,Sprinter,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS  1179,2023-11-19T21:07:00+0100,60,2023-11-19T21:07:00+0100,60,4,4,ICD,True,"[{'message': 'Rijdt niet door logistieke beperkingen', 'style': 'INFO'}]",INCOMING,1179,ICD,NS Intercity direct,Intercity direct,NS,NS,TRAIN
+PPV,Vlissingen,NS  2281,2023-11-19T21:09:00+0100,60,2023-11-19T21:24:12+0100,60,7,7,IC,False,[],INCOMING,2281,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Utrecht Centraal,NS  2870,2023-11-19T21:10:00+0100,60,2023-11-19T21:10:00+0100,60,3,3,IC,False,[],INCOMING,2870,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Eindhoven Centraal,NS  1172,2023-11-19T21:16:00+0100,60,2023-11-19T21:16:00+0100,60,8,7,ICD,False,"[{'message': 'Dit is een gewijzigd aankomstspoor', 'style': 'INFO'}]",INCOMING,1172,ICD,NS Intercity direct,Intercity direct,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS  2268,2023-11-19T21:19:00+0100,60,2023-11-19T21:19:00+0100,60,7,6,IC,False,"[{'message': 'Dit is een gewijzigd aankomstspoor', 'style': 'INFO'}]",INCOMING,2268,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Leeuwarden,NS   670,2023-11-19T21:25:00+0100,60,2023-11-19T21:25:00+0100,60,14,14,IC,False,[],INCOMING,670,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Dordrecht,NS  5174,2023-11-19T21:27:00+0100,60,2023-11-19T21:27:00+0100,60,7,7,SPR,False,[],INCOMING,5174,SPR,NS Sprinter,Sprinter,NS,NS,TRAIN
+PPV,Marne-la-Vallée-Chessy,NS Int  9977,2023-11-19T21:32:00+0100,60,2023-11-19T21:32:00+0100,60,8,8,EST,False,[],INCOMING,9977,EST,NS Int Eurostar,Eurostar,NS Int,NS Int,TRAIN
+PPV,Tiel,NS  6970,2023-11-19T21:34:00+0100,60,2023-11-19T21:34:00+0100,60,16,16,SPR,False,[],INCOMING,6970,SPR,NS Sprinter,Sprinter,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS  1181,2023-11-19T21:36:00+0100,60,2023-11-19T21:36:00+0100,60,3,3,ICD,False,[],INCOMING,1181,ICD,NS Intercity direct,Intercity direct,NS,NS,TRAIN
+PPV,Vlissingen,NS  2283,2023-11-19T21:39:00+0100,60,2023-11-19T21:45:20+0100,60,7,7,IC,False,[],INCOMING,2283,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Utrecht Centraal,NS  2872,2023-11-19T21:40:00+0100,60,2023-11-19T21:40:00+0100,60,13,13,IC,False,[],INCOMING,2872,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Eindhoven Centraal,NS  1174,2023-11-19T21:46:00+0100,60,2023-11-19T21:46:00+0100,60,8,8,ICD,False,[],INCOMING,1174,ICD,NS Intercity direct,Intercity direct,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS  2270,2023-11-19T21:49:00+0100,60,2023-11-19T21:52:21+0100,60,7,7,IC,False,[],INCOMING,2270,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Brussel-Zuid Midi,NS Int  9267,2023-11-19T21:50:00+0100,60,2023-11-19T21:50:00+0100,60,6,6,ICD,False,[],INCOMING,9267,ICD,NS Int Intercity direct,Intercity direct,NS Int,NS Int,TRAIN
+PPV,Amsterdam Centraal,NS Int  9398,2023-11-19T21:53:00+0100,60,2023-11-19T21:53:00+0100,60,2,2,EST,False,[],INCOMING,9398,EST,NS Int Eurostar,Eurostar,NS Int,NS Int,TRAIN
+PPV,Groningen,NS   572,2023-11-19T21:55:00+0100,60,2023-11-19T21:55:00+0100,60,14,14,IC,False,[],INCOMING,572,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Dordrecht,NS  5176,2023-11-19T21:57:00+0100,60,2023-11-19T21:57:00+0100,60,7,7,SPR,False,[],INCOMING,5176,SPR,NS Sprinter,Sprinter,NS,NS,TRAIN
+PPV,Paris-Nord,NS Int  9381,2023-11-19T22:02:00+0100,60,2023-11-19T22:02:00+0100,60,8,8,EST,False,[],INCOMING,9381,EST,NS Int Eurostar,Eurostar,NS Int,NS Int,TRAIN
+PPV,Amsterdam Centraal,NS Int  9272,2023-11-19T22:04:00+0100,60,2023-11-19T22:14:23+0100,60,2,2,ICD,False,[],INCOMING,9272,ICD,NS Int Intercity direct,Intercity direct,NS Int,NS Int,TRAIN
+PPV,Tiel,NS  6972,2023-11-19T22:04:00+0100,60,2023-11-19T22:04:00+0100,60,16,16,SPR,False,[],INCOMING,6972,SPR,NS Sprinter,Sprinter,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS  1183,2023-11-19T22:07:00+0100,60,2023-11-19T22:12:51+0100,60,4,4,ICD,False,[],INCOMING,1183,ICD,NS Intercity direct,Intercity direct,NS,NS,TRAIN
+PPV,Vlissingen,NS  2285,2023-11-19T22:09:00+0100,60,2023-11-19T22:09:00+0100,60,7,7,IC,False,[],INCOMING,2285,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Eindhoven Centraal,NS  1176,2023-11-19T22:16:00+0100,60,2023-11-19T22:16:00+0100,60,8,8,ICD,False,[],INCOMING,1176,ICD,NS Intercity direct,Intercity direct,NS,NS,TRAIN
+PPV,Amsterdam Centraal,NS  2272,2023-11-19T22:19:00+0100,60,2023-11-19T22:19:00+0100,60,7,7,IC,False,[],INCOMING,2272,IC,NS Intercity,Intercity,NS,NS,TRAIN
+PPV,Leeuwarden,NS   674,2023-11-19T22:25:00+0100,60,2023-11-19T22:25:00+0100,60,14,14,IC,False,[],INCOMING,674,IC,NS Intercity,Intercity,NS,NS,TRAIN
