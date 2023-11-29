@@ -74,6 +74,15 @@ For more details on the scraping code and libraries please refer to [script.ipyn
 
 In this part, data is loaded into Snowflake and null handling and transformation steps are performed by using SQL queries. Data exploration, data preperation and data modelling and validation has been completed.
 
+Two main tables in Snowflake Stations and Disruptions has been created as a result of the API response and these tables are :
+
+![img](assets/stations1.png)
+
+![img](assets/stations2.png)
+
+![img](assets/disruptions1.png)
+
+![img](assets/disruptions2.png)
 
 This is created as the final table and all the data type transformations done in snowflake:
 
@@ -115,10 +124,11 @@ ON dist.uiccode=station.uiccode
 ```
 
 
-Here are some screenshots from Snowflake to show how the schemas and tables look like:
+Here is the final table that has been used in the final analysis:
 
-![img](assets/Snowflake1.png)
+![img](assets/join1.png)
 
+![img](assets/join2.png)
 
 
 # Looker Studio 
