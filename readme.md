@@ -30,7 +30,7 @@ The Netherlands, celebrated for its efficient public transportation system, boas
 The inception of this project faced challenges related to the acquisition of accurate datasets and the development of robust data pipelines. A strategic decision was made to gather data from authoritative sources, including the official Dutch railway portal and other relevant platforms. Employing an API integration, the data was collected to ensure a comprehensive and up-to-date dataset. Subsequently, data cleaning and transformation were carried out to prepare the dataset for thorough analysis.
 
 Study Overview:
-This study provides a detailed examination of train stations across the Netherlands, delving into key operational aspects and disruptions that may impact commuter experiences. The analysis encompasses factors such as station facilities, punctuality, and the frequency and nature of disruptions. The datasets utilized in this study were procured from official railway sources, ensuring reliability and accuracy.
+This study provides a detailed examination of train stations across the Netherlands, delving into key operational aspects and disruptions that may impact commuter experiences. The analysis encompasses factors such as station facilities, and the disrupted stations and nature of disruptions. The datasets utilized in this study were procured from official railway sources, ensuring reliability and accuracy.
 
 Architectural Framework:
 The architectural framework of the project is structured into three main components:
@@ -60,7 +60,7 @@ Here is the overall architecture flow:
 ![img](assets/arch.png)
 
 # API Connection 
-In this notebook, we will create a dataset of train stations and disruptions found from [NS API Portal](https://apiportal.ns.nl/) (Dutch transportation website). In order to do this, I have created some reguests by using python and I have used different libraries like JSON,requesnt and pandas in python.  
+In this notebook, we will create a dataset of train stations and disruptions found from [NS API Portal](https://apiportal.ns.nl/) (Dutch transportation website). In order to do this, I have created some requests by using python and I have used different libraries like JSON,request and pandas in python.  
 
 This notebook is part of my train stations data series in which I have created a dataset by using requests.
 
