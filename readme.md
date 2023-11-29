@@ -6,9 +6,9 @@
 
 
 ![Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Badge](https://img.shields.io/badge/JSON-43B02A?logo=json&logoColor=white)
-![Badge](https://img.shields.io/badge/Request-%23D3FB52?logoColor=white)
-![Badge](https://img.shields.io/badge/Snowflake-%2329B5E8?logo=Snowflake&logoColor=white)
+![Badge](https://img.shields.io/badge/JSON-43B02A?&style=for-the-badge&logoColor=white)
+![Badge](https://img.shields.io/badge/Request-%23D3FB52?&style=for-the-badge&logoColor=white)
+![Badge](https://img.shields.io/badge/Snowflake-%2329B5E8?&style=for-the-badge&logo=Snowflake&logoColor=white)
 ![Badge](https://img.shields.io/badge/Looker_Studio-8A2TK2?style=for-the-badge&logo=Looker&logoColor=white&color=%23DE3163&cacheSeconds=%234285F4)
 
 </div>
@@ -115,7 +115,7 @@ ON dist.uiccode=station.uiccode
 ```
 
 
-Here are some screenshots from BigQuery to show how the schemas and tables look like:
+Here are some screenshots from Snowflake to show how the schemas and tables look like:
 
 ![img](assets/Snowflake1.png)
 
