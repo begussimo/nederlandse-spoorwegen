@@ -6,7 +6,7 @@
 
 
 ![Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Badge](https://img.shields.io/badge/JSON-43B02A?&style=for-the-badge&logoColor=white)
+![Badge](https://img.shields.io/badge/JSON-43B02A?&style=for-the-badge&logo=json&logoColor=white)
 ![Badge](https://img.shields.io/badge/Request-%23D3FB52?&style=for-the-badge&logoColor=white)
 ![Badge](https://img.shields.io/badge/Snowflake-%2329B5E8?&style=for-the-badge&logo=Snowflake&logoColor=white)
 ![Badge](https://img.shields.io/badge/Looker_Studio-8A2TK2?style=for-the-badge&logo=Looker&logoColor=white&color=%23DE3163&cacheSeconds=%234285F4)
@@ -81,34 +81,34 @@ This is created as the final table and all the data type transformations done in
 ```console
 CREATE OR REPLACE TABLE NL.HJ.Stations_Disruptions_NL AS
 SELECT 
-ID,
-station.uiccode,
-type,
-stationcode,
-name,
-namen_lang,
-stationtype,
-registrationtime,
-releasetime,
-local,
-title,
-topic,
-isactive,
-start_time,
-end_time,
-phase_id,
-phase_label,
-impact_value,
-expectedduration_endtime,
-period,
-summaryadditionaltraveltime_maximumdurationinminutes as max_duration,
-summaryadditionaltraveltime_minimumdurationinminutes as min_duration,
-sectiontype,
-section_direction,
-consequence_section_direction,
-consequence_description,
-coordinate_lat,
-coordinate_lng
+    ID,
+    station.uiccode,
+    type,
+    stationcode,
+    name,
+    namen_lang,
+    stationtype,
+    registrationtime,
+    releasetime,
+    local,
+    title,
+    topic,
+    isactive,
+    start_time,
+    end_time,
+    phase_id,
+    phase_label,
+    impact_value,
+    expectedduration_endtime,
+    period,
+    summaryadditionaltraveltime_maximumdurationinminutes as max_duration,
+    summaryadditionaltraveltime_minimumdurationinminutes as min_duration,
+    sectiontype,
+    section_direction,
+    consequence_section_direction,
+    consequence_description,
+    coordinate_lat,
+    coordinate_lng
 FROM dist
 LEFT JOIN station
 ON dist.uiccode=station.uiccode
