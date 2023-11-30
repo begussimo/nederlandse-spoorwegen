@@ -27,21 +27,10 @@
 
 The Netherlands, celebrated for its efficient public transportation system, boasts a network of train stations connecting cities and regions seamlessly. Despite the commendable infrastructure, navigating through potential disruptions remains a significant concern for commuters. To shed light on this aspect, a comprehensive analysis has been meticulously conducted, offering insights into the operational dynamics of train stations and the impact of disruptions on the Dutch rail network.
 
-The inception of this project faced challenges related to the acquisition of accurate datasets and the development of robust data pipelines. A strategic decision was made to gather data from authoritative sources, including the official Dutch railway portal and other relevant platforms. Employing an API integration, the data was collected to ensure a comprehensive and up-to-date dataset. Subsequently, data cleaning and transformation were carried out to prepare the dataset for thorough analysis.
+The inception of this project faced challenges related to the acquisition of accurate datasets and the development of robust data pipelines. A strategic decision was made to gather data from authoritative sources, including the official Dutch railway portal and other relevant platforms. Employing an API integration, the data was collected to ensure a comprehensive and up-to-date dataset. Subsequently, data cleaning and transformation in Snowflake were carried out to prepare the dataset for thorough analysis and visualization in Looker Studio.
 
 Study Overview:
 This study provides a detailed examination of train stations across the Netherlands, delving into key operational aspects and disruptions that may impact commuter experiences. The analysis encompasses factors such as station facilities, and the disrupted stations and nature of disruptions. The datasets utilized in this study were procured from official railway sources, ensuring reliability and accuracy.
-
-Architectural Framework:
-The architectural framework of the project is structured into three main components:
-
-Data Procurement: Datasets were sourced from official Dutch railway portals and other authoritative platforms using a combination of web scraping and API integration.
-
-Data Processing: Robust data pipelines were developed to clean and transform the datasets, ensuring accuracy and consistency. The processed data was then ready for comprehensive analysis.
-
-Analysis and Insights: The study focuses on various aspects of train stations and disruptions. The datasets, obtained from reliable sources, enable a thorough examination of the operational dynamics of the Dutch rail network.
-
-This analysis aims to provide commuters, policymakers, and transportation authorities with valuable insights into the operational efficiency of train stations and the challenges posed by disruptions. By understanding these dynamics, stakeholders can work towards enhancing the overall commuter experience and fortifying the resilience of the Dutch rail network.
 
 The architectural framework of the project is thoughtfully segmented into three main components, as follows:
 
