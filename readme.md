@@ -53,7 +53,7 @@ In this notebook, we will create a dataset of train stations and disruptions fou
 
 This notebook is part of my train stations data series in which I have created a dataset by using requests.
 
-For more details on the scraping code and libraries please refer to [script.ipynb](/Users/begumkoca/Documents/GitHub/nederlandse-spoorwegen/script.ipynb)
+For more details on the scraping code and libraries please refer to [script.ipynb](script.ipynb)
 
 ![img](assets/ns_nl_api1.png)
 
