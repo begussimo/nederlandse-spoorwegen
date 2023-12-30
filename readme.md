@@ -130,10 +130,10 @@ To view the dashboard please use the [Dashboard](https://lookerstudio.google.com
 
 And for a quick overview please refer to the below:
 
-![img](assets/llk1.png)
-![img](assets/llk2.png)
-![img](assets/llk3.png)
-![img](assets/llk4.png)
+![img](assets/IIk1.png)
+![img](assets/IIk2.png)
+![img](assets/IIk3.png)
+![img](assets/IIk4.png)
 
 
 
